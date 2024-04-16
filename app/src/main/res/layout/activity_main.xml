@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity"
     android:orientation="vertical">
-
+<!--    Commented for secondary branch-->
     <FrameLayout
         android:id="@+id/frameLayout"
         android:layout_height="match_parent"
