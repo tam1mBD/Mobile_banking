@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navHome"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Home"
+        />
+
+    <item
+        android:id="@+id/navStat"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Statistic"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+    <item
+        android:id="@+id/transfer"
+        android:icon="@drawable/ic_android_black_24dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Transfer"
+        />
+    <item
+        android:id="@+id/health"
+        android:icon="@drawable/ic_android_black_24dp"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:title="Health"
+        />
+    <item
+        android:id="@+id/alert"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:icon="@drawable/ic_android_black_24dp"
+        android:title="Alert"
+        />
+</menu>
